@@ -1,0 +1,7 @@
+K-Fold Cross-Validation Results:
+
+Fold 1 - Training Loss: 0.0655, Validation Loss: 0.0511, Accuracy: 98.21%, F1 Score: 0.9821
+Fold 2 - Training Loss: 0.0738, Validation Loss: 0.0574, Accuracy: 97.99%, F1 Score: 0.9799
+Fold 3 - Training Loss: 0.0659, Validation Loss: 0.0467, Accuracy: 98.17%, F1 Score: 0.9817
+Fold 4 - Training Loss: 0.0564, Validation Loss: 0.0599, Accuracy: 97.64%, F1 Score: 0.9763
+Fold 5 - Training Loss: 0.0605, Validation Loss: 0.0571, Accuracy: 98.10%, F1 Score: 0.9810

@@ -2,9 +2,9 @@ Classification Report Across All Folds:
 
               precision    recall  f1-score   support
 
-      normal       0.97      0.97      0.97     58265
-  ransomware       0.98      0.98      0.98     80443
+      normal       0.99      0.97      0.98     58265
+  ransomware       0.98      0.99      0.98     80443
 
-    accuracy                           0.97    138708
-   macro avg       0.97      0.97      0.97    138708
-weighted avg       0.97      0.97      0.97    138708
+    accuracy                           0.98    138708
+   macro avg       0.98      0.98      0.98    138708
+weighted avg       0.98      0.98      0.98    138708

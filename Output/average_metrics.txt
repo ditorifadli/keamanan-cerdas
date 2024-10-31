@@ -1,5 +1,5 @@
 Average Metrics Across Folds:
-Average Training Loss: 0.0513
-Average Validation Loss: 0.0385
-Average Accuracy: 98.56%
-Average F1 Score: 0.9856
+Average Training Loss: 0.0491
+Average Validation Loss: 0.0384
+Average Accuracy: 98.62%
+Average F1 Score: 0.9862
